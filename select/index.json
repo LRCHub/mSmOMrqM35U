@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "CAFUNE",
+  "base_artist": "鹿乃",
+  "createdAt": "2025-12-11T17:02:10.422620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cafuné",
+      "artist": "Micro Tdh",
+      "has_synced": true,
+      "path": "select/01_Cafuné_Micro_Tdh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Contando Lunares (feat. Cruz Cafuné)",
+      "artist": "Don Patricio feat. Cruz Cafuné",
+      "has_synced": true,
+      "path": "select/02_Contando_Lunares_(feat._Cruz_Cafuné)_Don_Patricio_feat._Cruz_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Contando Lunares (feat. Cruz Cafuné)",
+      "artist": "Don Patricio/Cruz Cafuné",
+      "has_synced": true,
+      "path": "select/03_Contando_Lunares_(feat._Cruz_Cafuné)_Don_Patricio_Cruz_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",
+      "artist": "La Pantera feat. Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné & EL IMA",
+      "has_synced": true,
+      "path": "select/04_Cayó_La_Noche_(feat._Cruz_Cafuné,_Abhir_Hathi,_Bejo,_EL_IMA)_[Remix]_La_Pantera_feat._Quevedo,_Juseph,_Abhir_Hathi,_Bejo,_Cruz_Cafuné_&_EL_IMA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",
+      "artist": "La Pantera,Quevedo,Juseph,Abhir Hathi,Bejo,Cruz Cafuné,EL IMA",
+      "has_synced": true,
+      "path": "select/05_Cayó_La_Noche_(feat._Cruz_Cafuné,_Abhir_Hathi,_Bejo,_EL_IMA)_[Remix]_La_Pantera,Quevedo,Juseph,Abhir_Hathi,Bejo,Cruz_Cafuné,EL_IMA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",
+      "artist": "La Pantera",
+      "has_synced": true,
+      "path": "select/06_Cayó_La_Noche_(feat._Cruz_Cafuné,_Abhir_Hathi,_Bejo,_EL_IMA)_[Remix]_La_Pantera.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Powah (feat. Cruz Cafuné)",
+      "artist": "Highkili feat. Don Peligro & Cruz Cafuné",
+      "has_synced": true,
+      "path": "select/07_Powah_(feat._Cruz_Cafuné)_Highkili_feat._Don_Peligro_&_Cruz_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Powah (feat. Cruz Cafuné)",
+      "artist": "Highkili/Don Peligro/Cruz Cafuné",
+      "has_synced": true,
+      "path": "select/08_Powah_(feat._Cruz_Cafuné)_Highkili_Don_Peligro_Cruz_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Contando Lunares (feat. Cruz Cafuné)",
+      "artist": "Don Patricio",
+      "has_synced": true,
+      "path": "select/09_Contando_Lunares_(feat._Cruz_Cafuné)_Don_Patricio.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/10_Cafuné_-_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cafuné",
+      "artist": "Video • Micro TDH",
+      "has_synced": true,
+      "path": "select/11_Cafuné_Video_•_Micro_TDH.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Sped Up) [Official Audio]",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/12_Cafuné_-_Tek_It_(Sped_Up)_[Official_Audio]_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cafuné",
+      "artist": "Julinho Ksd",
+      "has_synced": true,
+      "path": "select/13_Cafuné_Julinho_Ksd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Official Lyric Video)",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/14_Cafuné_-_Tek_It_(Official_Lyric_Video)_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tango (feat. Cruz Cafuné)",
+      "artist": "Danny Romero/Cruz Cafuné",
+      "has_synced": false,
+      "path": "select/15_Tango_(feat._Cruz_Cafuné)_Danny_Romero_Cruz_Cafuné.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cafuné",
+      "artist": "Sandra Groove",
+      "has_synced": true,
+      "path": "select/16_Cafuné_Sandra_Groove.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bomba (feat. Choclock & Cruz Cafuné)",
+      "artist": "One Path feat. Choclock & Cruz Cafuné",
+      "has_synced": true,
+      "path": "select/17_Bomba_(feat._Choclock_&_Cruz_Cafuné)_One_Path_feat._Choclock_&_Cruz_Cafuné.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CAFUNE",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/pl_01_CAFUNE_鹿乃.txt"
+    }
+  ]
+}
